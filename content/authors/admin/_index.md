@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Li Xingli
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
