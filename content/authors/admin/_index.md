@@ -22,7 +22,7 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: The Chinese University of Hong Kong
-    url: https://www.cuhk.edu.hk/
+    url: https://www.cuhk.edu.hk/english/index.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
